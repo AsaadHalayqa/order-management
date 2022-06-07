@@ -9,8 +9,21 @@
 
  ![image](https://user-images.githubusercontent.com/79643639/172480582-f4d21c1b-3727-4a7b-9286-340f7349d29b.png)
 
+## For Order: 
 
+![image](https://user-images.githubusercontent.com/79643639/172480991-f4e3dfb4-8c9c-4c4f-9734-baa655c00960.png)
 
+## For Product:
+
+![image](https://user-images.githubusercontent.com/79643639/172481257-f55d7880-2439-4850-bec2-b9d3eedc8540.png)
+
+## For Product Order:
+
+![image](https://user-images.githubusercontent.com/79643639/172481815-b7091814-eeca-46bd-b44f-28fac990177a.png)
+
+## For Stock:
+
+![image](https://user-images.githubusercontent.com/79643639/172482113-5f0ec21e-48bb-4235-86d9-b697725a61b4.png)
 
 
 ## Testing 
