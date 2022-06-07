@@ -34,7 +34,7 @@ There is a Postman collection for APIs testing in mater branch.
 DockerHub Link for this project: https://hub.docker.com/r/asaadhalayqa/order-management-repo
 
 ## Docker Command Used in order:
-``bash
+```bash
 
 docker-compose up
 
